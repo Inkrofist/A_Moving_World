@@ -7,14 +7,7 @@ import time
 import random
 """
 Possible character names:
-Buffy Aiden
 Elia Gil
-Julius Fletcher
-Evie Rupert
-
-Story concepts:
-Character is / was a criminal, robber : in love with Elia Gil : also lost in crash : has memory of his love of her : must find her : she crashed too
-
 """
 
 arlo_error_response = ["'I'm not sure if I caught what you said. Could you say it again for me?...'",
